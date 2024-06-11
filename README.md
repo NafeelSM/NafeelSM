@@ -22,7 +22,7 @@ I am an undergraduate IT student at Sri Lanka Institute of Information Technolog
 
 ## 📚 Education
 
-- **BSc in Information Technology**  
+- **BSc hons in Information Technology**  
   [Sri Lanka Institute of Information Technology (SLIIT)](https://www.sliit.lk)  
   2021 - present
 
