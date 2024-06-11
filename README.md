@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nafeel!
 
-![Profile Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner](https://avatars.githubusercontent.com/u/127679674?s=400&u=fe95e02cad43338d3b262092e53108977e84f182&v=4))
 
 I am an undergraduate IT student at Sri Lanka Institute of Information Technology (SLIIT). I have a strong foundation in various IT domains and have completed several projects during my academic journey.
 
@@ -14,11 +14,6 @@ I am an undergraduate IT student at Sri Lanka Institute of Information Technolog
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Nafeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 ## 💬 Connect with Me
 
