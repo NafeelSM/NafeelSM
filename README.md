@@ -19,7 +19,7 @@ I have a strong foundation in various IT domains and have completed several proj
 
 ## 💬 Connect with Me
 
-[URL-to-your-LinkedIn](https://www.linkedin.com/in/nafeel-s-m-a92348270/))
+[URL-to-your-LinkedIn](https://www.linkedin.com/in/nafeel-s-m-a92348270/)
 [![Email](nafeelsm2018@gmail.com)
 
 ## 📚 Education
@@ -42,5 +42,5 @@ I have a strong foundation in various IT domains and have completed several proj
 
 ## 📫 How to Reach Me
 
-Feel free to reach out to me via [email](nafeelsm2018@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nafeel-s-m-a92348270/)).
+Feel free to reach out to me via [email](nafeelsm2018@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nafeel-s-m-a92348270/).
 
