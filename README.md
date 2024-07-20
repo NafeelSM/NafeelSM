@@ -3,7 +3,7 @@
 ![Profile Banner](https://avatars.githubusercontent.com/u/127679674?s=400&u=fe95e02cad43338d3b262092e53108977e84f182&v=4))
 
 I am an undergraduate IT student at Sri Lanka Institute of Information Technology (SLIIT).
-I have a strong foundation in various IT domains and have completed several projects during my academic journey.
+I am currently undertaking a full-stack developer internship at ITS, where I am gaining hands-on experience in both front-end and back-end development.
 
 ## 🛠️ Technologies & Tools
 
@@ -33,7 +33,7 @@ I have a strong foundation in various IT domains and have completed several proj
 
 ## 🌱 Currently Learning
 
-- React framework
+- Laravel framework
 - Cloud technologies
 - DevOps practices and CI/CD pipelines
 
