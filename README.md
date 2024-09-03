@@ -2,8 +2,8 @@
 
 ![Profile Banner](https://avatars.githubusercontent.com/u/127679674?s=400&u=fe95e02cad43338d3b262092e53108977e84f182&v=4))
 
-I am an undergraduate IT student at Sri Lanka Institute of Information Technology (SLIIT).
-I am currently undertaking a full-stack developer internship at ITS, where I am gaining hands-on experience in both front-end and back-end development.
+I am a final year undergraduate IT student at the Sri Lanka Institute of Information Technology (SLIIT). I am currently working as a software engineer intern at ITS, 
+where I am gaining hands-on experience in both front-end and back-end development.
 
 ## 🛠️ Technologies & Tools
 
