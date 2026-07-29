@@ -2,8 +2,7 @@
 
 ![Profile Banner](https://avatars.githubusercontent.com/u/127679674?s=400&u=fe95e02cad43338d3b262092e53108977e84f182&v=4))
 
-I am a final year undergraduate IT student at the Sri Lanka Institute of Information Technology (SLIIT). I was worked as a intern software engineer at ITS, 
-where I am gaining hands-on experience in both front-end and back-end development.
+I am an IT professional with a strong passion for software quality assurance. I have hands-on experience in both manual and automation testing, including test case design, test execution, defect tracking, and bug reporting. I am committed to delivering high-quality software and continuously enhancing my skills in modern QA tools, testing methodologies, and industry best practices.
 
 ## 🛠️ Technologies & Tools
 
@@ -29,19 +28,15 @@ where I am gaining hands-on experience in both front-end and back-end developmen
 
 - **BSc hons in Information Technology**  
   [Sri Lanka Institute of Information Technology (SLIIT)](https://www.sliit.lk)  
-  2021 - present
+  2021 - 2025
 
 ## 🌱 Currently Learning
 
-- Laravel framework
-- Cloud technologies
-- DevOps practices and CI/CD pipelines
+- Python framework
+- Playwright automation
+- Database testing
+- API Testing
 
-## 🎯 Goals
-
-- To secure an internship in a reputed IT company to gain practical experience and improve my skills
-- To contribute to open source projects
-- To build a comprehensive portfolio of projects showcasing my capabilities
 
 ## 📫 How to Reach Me
 
