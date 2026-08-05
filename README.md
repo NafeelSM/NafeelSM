@@ -32,7 +32,7 @@ I am an IT professional with a strong passion for software quality assurance. I 
 
 ## 🌱 Currently Learning
 
-- Python framework
+- Python
 - Playwright automation
 - Database testing
 - API Testing
